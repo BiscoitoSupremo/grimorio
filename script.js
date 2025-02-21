@@ -1,7 +1,7 @@
 
 window.onload = function() {
     setTimeout(function() {
-        document.getElementById('revealBtn').classList.remove('hidden');
+        document.getElementById('revealBtn');
     }, 5000);
 };
 
